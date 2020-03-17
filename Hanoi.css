@@ -1,0 +1,103 @@
+h1 {
+  text-align: center;
+  margin-top: 10px;
+  padding-top: 10px;
+  font-size: 60px;
+  font-family: fantasy;
+}
+h2 {
+  text-align: center;
+}
+#towerContainerDiv {
+  display: flex;
+  align-items: center;
+  background: grey;
+  width: 500px;
+  height: 400px;
+  margin: 0 auto;
+}
+#towerContainerDiv p {
+  margin-top: 5px;
+}
+
+#tower1 {
+  display: flex;
+  width: 20%;
+  height: 380px;
+  flex-direction: column-reverse;
+  background-color: peru;
+  border: 1px solid red;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 30px;
+  align-items: center;
+}
+#tower2 {
+  display: flex;
+  width: 20%;
+  height: 380px;
+  flex-direction: column-reverse;
+  background-color: peru;
+  border: 1px solid red;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 30px;
+  align-items: center;
+}
+#tower3 {
+  display: flex;
+  width: 20%;
+  height: 380px;
+  flex-direction: column-reverse;
+  background-color: peru;
+  border: 1px solid red;
+  margin: 0 auto;
+  text-align: center;
+  font-size: 30px;
+  align-items: center;
+}
+
+#towerDiv1 {
+  width: 200px;
+  height: 300px;
+  background-color: peru;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+#towerDiv2 {
+  width: 200px;
+  height: 300px;
+  background-color: peru;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+#towerDiv3 {
+  width: 200px;
+  height: 300px;
+  background-color: peru;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+}
+#disc1 {
+  width: 250px;
+  height: 20px;
+  background-color: purple;
+}
+#disc2 {
+  width: 200px;
+  height: 20px;
+  background-color: powderblue;
+}
+#disc3 {
+  width: 150px;
+  height: 20px;
+  background-color: brown;
+}
+#disc4 {
+  width: 100px;
+  height: 20px;
+  background-color: blue;
+}
