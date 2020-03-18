@@ -8,7 +8,7 @@ h1 {
 h2 {
   text-align: center;
 }
-#towerContainerDiv {
+#gameDiv {
   display: flex;
   align-items: center;
   background: grey;
@@ -16,9 +16,9 @@ h2 {
   height: 400px;
   margin: 0 auto;
 }
-#towerContainerDiv p {
+/* #gameCon p {
   margin-top: 5px;
-}
+} */
 
 #tower1 {
   display: flex;
